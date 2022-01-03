@@ -34,3 +34,6 @@
     margin-bottom: 1.25rem;
     margin-left: .7rem;
 }
+.cabecalho__link a:hover {
+    text-decoration: underline;
+}
